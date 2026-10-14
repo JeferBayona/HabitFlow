@@ -1,0 +1,19 @@
+# Android build outputs
+build/
+bin/
+gen/
+out/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Keystores & credentials
+*.jks
+*.keystore
+
+# Node & OS
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
